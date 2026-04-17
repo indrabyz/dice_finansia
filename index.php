@@ -67,6 +67,4 @@
         $time = time();
         echo date("Y-M-d",$time);
     ?>
- </div> 
-
-#tes#
+ </div>
